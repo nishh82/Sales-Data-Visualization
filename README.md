@@ -1,5 +1,4 @@
 
-# Sales-Data-visulaizaion-Vue
 # Sales Data Visualization
 
 This project is a Vue.js-based web application that visualizes sales data dynamically and interactively. It supports multiple chart types, custom data input, and CSV file uploads, making it a comprehensive tool for analyzing and presenting sales trends.
