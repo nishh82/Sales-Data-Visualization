@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sales-Data-visulaizaion-Vue
 # Sales Data Visualization
 
